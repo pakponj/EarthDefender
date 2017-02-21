@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5fb128ae07d3bbe40a34fa1563b6db28
+timeCreated: 1486983365
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KenVector Future Thin
+  fontNames:
+  - KenVector Future Thin
+  fallbackFontReferences: []
+  customCharacters: 'ENRGYALTH0123456789 '
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
